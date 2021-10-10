@@ -1,0 +1,7 @@
+tmp/
+.env
+Certs/
+go_bbs
+app/.env
+app/build/*
+!app/build/assets
